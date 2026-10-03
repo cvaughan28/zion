@@ -1,0 +1,14 @@
+{
+  "name": "Zion Trip",
+  "short_name": "Zion",
+  "description": "Vaughan family Zion itinerary — October 22–25, 2026",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf4ec",
+  "theme_color": "#8c3a1f",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
