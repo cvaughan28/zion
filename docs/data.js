@@ -62,7 +62,7 @@ const TRIP = {
           icon: "🛣️",
           title: "Drive to Springdale (~50 min)",
           details: [
-            "I-15 north → UT-9 east through Hurricane, La Verkin and Virgin to Springdale",
+            "I-15 north → UT-9 east through Hurricane (locals say \"HURR-uh-kun\"), La Verkin and Virgin to Springdale",
             "Groceries for the suite kitchen: Lin's Market in Hurricane is right on the route — if it's closed, Sol Foods in Springdale opens early Friday",
             "Dark, two-lane road after Hurricane — watch for deer",
           ],
@@ -95,7 +95,7 @@ const TRIP = {
         {
           start: "08:00",
           icon: "🥣",
-          title: "Breakfast in the suite (or Perks coffee)",
+          title: "Breakfast in the suite (or FeelLove / Perks coffee)",
           details: [
             "Layers: 40s this morning, upper 60s by afternoon",
             "LONG PANTS + closed-toe shoes for all three (horse ride rules)",
@@ -187,7 +187,7 @@ const TRIP = {
             "Easy fallback right next door: Zion Canyon Brew Pub",
             "Sunset ~6:40 — the footbridge behind the lodge looks straight at the Watchman",
           ],
-          maps: "Oscar's Cafe, Springdale, UT",
+          maps: "Oscar's Cafe, 948 Zion Park Blvd, Springdale, UT",
         },
       ],
     },
@@ -308,7 +308,8 @@ const TRIP = {
           title: "Leave the lodge — 6:15 AM",
           details: [
             "Check out at the desk or drop keys (checkout is 11 AM, so nothing to rush)",
-            "Coffee from the suite · breakfast at the airport or on landing",
+            "☕ Coffee stop: FeelLove Coffee (1101 Zion Park Blvd) opens at 6 AM and is right on the way out of town — 5 minutes, then go",
+            "Breakfast at the airport or on landing",
             "~50 min to SGU · gas up in St. George near the airport",
           ],
         },
@@ -351,12 +352,12 @@ const TRIP = {
     {
       category: "Eat — walk-in friendly",
       items: [
-        { name: "Oscar's Café", note: "Big portions, patio, kids' menu", maps: "Oscar's Cafe, Springdale, UT" },
+        { name: "Oscar's Café", note: "Big portions, patio, kids' menu · friend-recommended", maps: "Oscar's Cafe, 948 Zion Park Blvd, Springdale, UT" },
         { name: "Zion Pizza & Noodle Co.", note: "In an old church · kid-easy", maps: "Zion Pizza & Noodle Co, Springdale, UT" },
         { name: "Zion Canyon Brew Pub", note: "Right next door to the lodge · river patio", maps: "Zion Canyon Brew Pub, Springdale, UT" },
         { name: "Whiptail Grill", note: "Fish tacos in an old gas station", maps: "Whiptail Grill, Springdale, UT" },
         { name: "Café Soleil", note: "Breakfast + sandwiches · 2-min walk", maps: "Cafe Soleil, Springdale, UT" },
-        { name: "Bit & Spur", note: "Southwestern/Mexican · bit nicer", maps: "Bit and Spur Restaurant, Springdale, UT" },
+        { name: "Bit & Spur", note: "Southwestern/Mexican · bit nicer · friend-recommended", maps: "Bit and Spur Restaurant, 1212 Zion Park Blvd, Springdale, UT" },
         { name: "Thai Sapa", note: "Asian · close to the lodge", maps: "Thai Sapa, Springdale, UT" },
         { name: "Castle Dome Café (Zion Lodge)", note: "Grab-and-go inside the park", maps: "Zion Lodge, Springdale, UT" },
         { name: "Red Rock Grill (Zion Lodge)", note: "Sit-down meal inside the park", maps: "Zion Lodge, Springdale, UT" },
@@ -365,6 +366,7 @@ const TRIP = {
     {
       category: "Coffee, groceries & treats",
       items: [
+        { name: "FeelLove Coffee", note: "Friend-recommended · opens 6 AM · on the way out Sunday", maps: "FeelLove Coffee, 1101 Zion Park Blvd, Springdale, UT" },
         { name: "Perks", note: "Coffee right at Zion Canyon Village", maps: "Perks Coffee, Springdale, UT" },
         { name: "Sol Foods", note: "Groceries + deli · trail snacks", maps: "Sol Foods Supermarket, Springdale, UT" },
         { name: "Lin's Market (Hurricane)", note: "Big grocery store on the drive in", maps: "Lin's Fresh Market, Hurricane, UT" },
@@ -515,6 +517,7 @@ const TRIP = {
       title: "Good to know",
       items: [
         "Time zone: Utah is Mountain Time — 1 hour behind Dallas",
+        "Say it like a local: Hurricane is \"HURR-uh-kun\" (and Zion rhymes with lion)",
         "Elevation ~3,900 ft in Springdale (easy) but the air is VERY dry — drink more than you think",
         "Cell service: basically none past the Visitor Center — this app works offline",
         "Flash floods: the Narrows closes when flow is high or storms are forecast. Never enter if rangers say no.",
